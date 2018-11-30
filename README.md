@@ -1,6 +1,10 @@
 # what is this
 
-this is a hive sql sql format tool
+this is a hive sql format tool
+
+suport:  create select insert
 
 # how to use
-./hsf test.sql
+
+	1. chmod +x ./hsf
+	2. ./hsf test.sql
