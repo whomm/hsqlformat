@@ -1,4 +1,0 @@
-#/bin/sh
-
-confpath=$(cd `dirname $0`; pwd)
-java -Dlog4j.configurationFile=$confpath/log4j2.xml -jar $confpath/hf.jar $1

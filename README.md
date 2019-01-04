@@ -6,5 +6,5 @@ suport:  create select insert
 
 # how to use
 
-	1. chmod +x ./hsf
-	2. ./hsf test.sql
+	1. chmod +x ./bin/hsf
+	2. ./bin/hsf ./bin/test.sql
